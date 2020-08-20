@@ -1,9 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1, tvg-chno="1", tvg-country="ECUADOR", tvg-language="ESPAÑOL",GOLTV group-title="DEPORTES"
+#EXTINF:-1 tvg-chno="1", tvg-country="ECUADOR", tvg-language="ESPAÑOL",GOLTV 
 http://trnity-lh.akamaihd.net/i/GolTVModel4A_d@4228657master.m3u8
 
 
-#EXTINF:0 tvg-chno="2", tvg-country="ECUADOR", tvg-language="ESPAÑOL",FOXTV group-title="DEPORTES"
+#EXTINF:0 tvg-chno="2", tvg-country="ECUADOR", tvg-language="ESPAÑOL",FOXTV 
 http://trnity-lh.akamaihd.net/i/GolTVModel4A_d@4228657master.m3u8
