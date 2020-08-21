@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="img/goltv.png", tvg-chno="1", tvg-country="ECUADOR", tvg-language="ESPAÑOL",GOLTV 
-https://u73165.cdn884.net:8443/hls/y1qrhvyuvph.m3u8?s=RJr4v2s2jcPsoKgEtwSvYQ&e=1597988654
+#EXTINF:-1, GOLTV 
+http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.png" tvg-chno="2", tvg-country="ECUADOR", tvg-language="ESPAÑOL",FOX 
 https://u73165.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=W_aL2Er4Uapvuc00mVz7Eg&e=1597989852
