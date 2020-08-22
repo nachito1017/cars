@@ -25,5 +25,8 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10
 #EXTINF:-1, RTP BOLIVIA
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w610457049.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, extrema tv
+#EXTINF:-1, EXTREMA TV 
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1334920459.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, WOW TV EL SALVADOR
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?sd=10&rebase=on
