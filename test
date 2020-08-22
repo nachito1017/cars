@@ -18,3 +18,6 @@ https://bola6.mitopo.me/live/cocina/index.m3u8?token=uVYMjLiIVTQV7FFrdj7Zhg&expi
 
 #EXTINF:-1, FOX SPORT
 https://ul.cdn946.net:8443/hls/z5lt46j.m3u8?s=9SB_BYbamZhnOQomtB3i3A&e=1597998908
+
+#EXTINF:-1, DW
+http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/segment14104809_1_av-p.ts?sd=10
