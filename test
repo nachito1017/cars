@@ -5,19 +5,18 @@
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,FOX 
-https://u73165.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=W_aL2Er4Uapvuc00mVz7Eg&e=1597989852
+https://u73165.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, EL GOURMET
-https://u86715.cdn884.net:8443/hls/1a6cnv.m3u8?s=ZdS-GYzzLoU7yIZYwAfpag&e=1597991018
+https://u86715.cdn884.net:8443/hls/1a6cnv.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, H&H
 http://138.201.49.141:25464/dominapro/93fqETtIK5/37?
 
 #EXTINF:-1, CANAL COCINA
-https://bola6.mitopo.me/live/cocina/index.m3u8?token=uVYMjLiIVTQV7FFrdj7Zhg&expires=1598061382
-
+https://bola6.mitopo.me/live/cocina/index.m3u8?sd=10&rebase=on
 #EXTINF:-1, FOX SPORT
-https://ul.cdn946.net:8443/hls/z5lt46j.m3u8?s=9SB_BYbamZhnOQomtB3i3A&e=1597998908
+https://ul.cdn946.net:8443/hls/z5lt46j.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
