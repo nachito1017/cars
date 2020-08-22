@@ -30,3 +30,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1334920459.m3u8?sd=
 
 #EXTINF:-1, WOW TV EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, CHILEVISION
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8?sd=10&rebase=on
