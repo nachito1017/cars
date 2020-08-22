@@ -4,7 +4,7 @@
 #EXTINF:-1, GOLTV 
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/wp-content/uploads/televisiongratishd.png" tvg-chno="2", tvg-country="ECUADOR", tvg-language="ESPAÑOL",FOX 
+#EXTINF:-1,FOX 
 https://u73165.cdn884.net:8443/hls/esoncv2554uj4x.m3u8?s=W_aL2Er4Uapvuc00mVz7Eg&e=1597989852
 
 #EXTINF:-1, EL GOURMET
@@ -20,4 +20,4 @@ https://bola6.mitopo.me/live/cocina/index.m3u8?token=uVYMjLiIVTQV7FFrdj7Zhg&expi
 https://ul.cdn946.net:8443/hls/z5lt46j.m3u8?s=9SB_BYbamZhnOQomtB3i3A&e=1597998908
 
 #EXTINF:-1, DW
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/segment14104809_1_av-p.ts?sd=10
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
