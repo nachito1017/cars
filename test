@@ -33,3 +33,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, CHILEVISION
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chvHi.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, BHT TV PERU
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1614664726.m3u8?sd=10&rebase=on
