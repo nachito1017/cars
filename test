@@ -5,7 +5,7 @@
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1,FOX 
-https://u73165.cdn884.net:8443/hls/2vhquzq4q11rqrq.m3u8?s=312X4qEOhsRqLRm5wLYNpA&e=1598175053
+https://peer1.ustv24h.live/FOX/myStream/chunks.m3u8?nimblesessionid=37231596&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjM5OjI5IEFNJmhhc2hfdmFsdWU9ZTU3NVZOdDBNYmRWMHNOaGYyVElJdz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1, EL GOURMET
 https://u86715.cdn884.net:8443/hls/1a6cnv.m3u8?s=mb5yvqx3yLbZrpxA65tOEw&e=1598176351
@@ -16,8 +16,8 @@ https://ul.cdn946.net:8443/hls/5kpgd.m3u8?s=hq9UEbB2o2lmuVhQXj0reA&e=1598173065
 #EXTINF:-1, Cinemax
 https://peer7.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=33123537&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjA5OjU4IEFNJmhhc2hfdmFsdWU9S2JqZ0xVOFV2UVFjZ3BYV2h4MHo2dz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1, FOX SPORT
-https://ul.cdn946.net:8443/hls/dkf41ble0.m3u8?s=UY_be5XLZ0065fDHYdh7eA&e=1598174397
+#EXTINF:-1, TELEMUNDO
+https://peer5.ustv24h.live/Telemundo/myStream/chunks.m3u8?nimblesessionid=31915392&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjQxOjI1IEFNJmhhc2hfdmFsdWU9UXZSRlpxRWMzVTZqM1lNVk5IR0w0QT09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1, DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
