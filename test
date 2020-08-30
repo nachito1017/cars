@@ -10,8 +10,8 @@ https://peer1.ustv24h.live/FOX/myStream/chunks.m3u8?nimblesessionid=37231596&wms
 #EXTINF:-1, UNIVISION
 https://peer7.ustv24h.live/Univision/myStream/chunks.m3u8?nimblesessionid=33135933&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjQ0OjIwIEFNJmhhc2hfdmFsdWU9QUZGRXdSRy92S1RGaHU1Z1FIVWtyZz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1, H&H
-https://ul.cdn946.net:8443/hls/5kpgd.m3u8?s=hq9UEbB2o2lmuVhQXj0reA&e=1598173065
+#EXTINF:-1, TV LATINA PERU
+https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b2179072.m3u8?nva=1606525011&ttl=432000&ip=190.63.241.138&hash=00d608dbddd921d1f9916
 
 #EXTINF:-1, Cinemax
 https://peer7.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=33123537&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjA5OjU4IEFNJmhhc2hfdmFsdWU9S2JqZ0xVOFV2UVFjZ3BYV2h4MHo2dz09JnZhbGlkbWludXRlcz0yNDA=
