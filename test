@@ -11,7 +11,7 @@ https://peer1.ustv24h.live/FOX/myStream/chunks.m3u8?nimblesessionid=37231596&wms
 https://peer7.ustv24h.live/Univision/myStream/chunks.m3u8?nimblesessionid=33135933&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjQ0OjIwIEFNJmhhc2hfdmFsdWU9QUZGRXdSRy92S1RGaHU1Z1FIVWtyZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1, TV LATINA PERU
-https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b2179072.m3u8?nva=1606525011&ttl=432000&ip=190.63.241.138&hash=00d608dbddd921d1f9916
+https://csi.gstatic.com/csi?v=2&s=ima&dmc=8&puid=8i~kege1itm&c=192870066288&slotId=96435033144&ps=0x0&event_name=unmeasurable_asset&resource_name=https%253A%252F%252Flive-normal-internacional-hls.latina.pe%252Fegress%252Fbhandler%252Fcialatina%252Flive%252Fchunklist_b2179072.m3u8%253Fnva%253D1606525011%2526ttl%253D432000%2526ip%253D190.63.241.138%2526hash%253D00d608dbddd921d1f9916&encoded_body_size=0&transfer_size=0
 
 #EXTINF:-1, Cinemax
 https://peer7.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=33123537&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjA5OjU4IEFNJmhhc2hfdmFsdWU9S2JqZ0xVOFV2UVFjZ3BYV2h4MHo2dz09JnZhbGlkbWludXRlcz0yNDA=
