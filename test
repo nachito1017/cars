@@ -7,8 +7,8 @@ http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10
 #EXTINF:-1,FOX 
 https://peer1.ustv24h.live/FOX/myStream/chunks.m3u8?nimblesessionid=37231596&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjM5OjI5IEFNJmhhc2hfdmFsdWU9ZTU3NVZOdDBNYmRWMHNOaGYyVElJdz09JnZhbGlkbWludXRlcz0yNDA=
 
-#EXTINF:-1, EL GOURMET
-https://u86715.cdn884.net:8443/hls/1a6cnv.m3u8?s=mb5yvqx3yLbZrpxA65tOEw&e=1598176351
+#EXTINF:-1, UNIVISION
+https://peer7.ustv24h.live/Univision/myStream/chunks.m3u8?nimblesessionid=33135933&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjQ0OjIwIEFNJmhhc2hfdmFsdWU9QUZGRXdSRy92S1RGaHU1Z1FIVWtyZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1, H&H
 https://ul.cdn946.net:8443/hls/5kpgd.m3u8?s=hq9UEbB2o2lmuVhQXj0reA&e=1598173065
