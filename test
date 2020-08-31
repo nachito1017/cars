@@ -4,21 +4,6 @@
 #EXTINF:-1, GOLTV 
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,FOX 
-https://peer1.ustv24h.live/FOX/myStream/chunks.m3u8?nimblesessionid=37231596&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjM5OjI5IEFNJmhhc2hfdmFsdWU9ZTU3NVZOdDBNYmRWMHNOaGYyVElJdz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:-1, UNIVISION
-https://peer7.ustv24h.live/Univision/myStream/chunks.m3u8?nimblesessionid=33135933&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjQ0OjIwIEFNJmhhc2hfdmFsdWU9QUZGRXdSRy92S1RGaHU1Z1FIVWtyZz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:-1, TV LATINA PERU
-https://u73165.cdn884.net:8443/hls/zkoxt.m3u8?s=7Cp9qE-aXTfMGr5RfiY0Kg&e=1598774811
-
-#EXTINF:-1, Cinemax
-https://peer7.ustv24h.live/Cinemax/myStream/chunks.m3u8?nimblesessionid=33123537&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjA5OjU4IEFNJmhhc2hfdmFsdWU9S2JqZ0xVOFV2UVFjZ3BYV2h4MHo2dz09JnZhbGlkbWludXRlcz0yNDA=
-
-#EXTINF:-1, TELEMUNDO
-https://peer5.ustv24h.live/Telemundo/myStream/chunks.m3u8?nimblesessionid=31915392&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjQxOjI1IEFNJmhhc2hfdmFsdWU9UXZSRlpxRWMzVTZqM1lNVk5IR0w0QT09JnZhbGlkbWludXRlcz0yNDA=
-
 #EXTINF:-1, DW
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
@@ -30,9 +15,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w1334920459.m3u8?sd=
 
 #EXTINF:-1, WOW TV EL SALVADOR
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, FOOD NETWORK
-https://peer1.ustv24h.live/FoodNetwork/myStream/chunks.m3u8?nimblesessionid=37229654&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDIwIDEyOjMzOjE4IEFNJmhhc2hfdmFsdWU9eXlwWUdtU0ZlejAwS0owckZWRE4zZz09JnZhbGlkbWludXRlcz0yNDA=
 
 #EXTINF:-1, BHT TV PERU
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1614664726.m3u8?sd=10&rebase=on
