@@ -19,11 +19,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1, BHT TV PERU
 http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/chunklist_w1614664726.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,########## Latino Deportes ##########
 #EXTINF:-1,TyC Argentina
 http://mytv.fun:8080/Carmelo_Cangeri/wujrbndesu/626909
+
 #EXTINF:-1,ESPN MEXICO
 http://mytv.fun:8080/Carmelo_Cangeri/wujrbndesu/6710
+
 #EXTINF:-1,GOlTV USA
 http://beastiptv.tv:25461/live/Reyr07/Glendat11/1393.ts
 
