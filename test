@@ -30,3 +30,7 @@ http://beastiptv.tv:25461/live/Reyr07/Glendat11/1393.ts
 
 #EXTINF:-1, SPORT
 http://185.232.53.5:2086/gennaro/gennaro/64107
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
